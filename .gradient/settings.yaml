@@ -1,0 +1,8 @@
+integrations:
+  open4business:
+    type: dataset
+    ref: paperspace/dsjabl4wx5esl56:latest
+    enabled: true
+  o4b:
+    type: dataset
+    ref: paperspace/dspjiyqkb5gojg3:latest
