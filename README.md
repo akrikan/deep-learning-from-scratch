@@ -1,2 +1,2 @@
 # deep-learning-from-scratch
-implementation and learning deep learning from the book Grokking Deep learning  by Andrew W trash
+As of now this is just a project for FSDL 2022h
